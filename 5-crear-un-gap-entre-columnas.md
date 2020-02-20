@@ -16,5 +16,5 @@ La clase `container` debe tener una propiedad `grid-column-gap` que tenga el val
 [Desafío #5](https://codepen.io/sebastiantorres86/pen/LYVRbEX)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/6-crear-un-gap-entre-filas.md)
 

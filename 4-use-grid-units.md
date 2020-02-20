@@ -24,4 +24,4 @@ La clase `container` debe tener una propiedad `grid-template-columns` que tenga 
 [Desafío #4](https://codepen.io/sebastiantorres86/pen/xxGEEoz)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/5-crear-un-gap-entre-columnas.md)

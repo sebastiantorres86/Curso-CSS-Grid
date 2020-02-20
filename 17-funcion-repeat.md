@@ -32,4 +32,4 @@ La clase `container` debería tener una propiedad `grid-template-columns` que es
 [Desafío #17](https://codepen.io/sebastiantorres86/pen/abOmpWz)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/18-limitar-tama%C3%B1o-elemento-con-minmax.md)

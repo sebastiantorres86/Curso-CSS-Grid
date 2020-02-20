@@ -17,4 +17,4 @@ La clase `container` debe tener una propiedad gris-template-columns con `repeat`
 [Desafío #19](https://codepen.io/sebastiantorres86/pen/poJERdG)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/20-crear-dise%C3%B1os-flexibles-con-auto-fit.md)

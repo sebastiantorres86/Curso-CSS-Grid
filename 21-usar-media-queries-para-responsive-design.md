@@ -13,4 +13,4 @@ Cuando la ventana gráfica es de `400px` o más, la clase `container` debe tener
 [Desafío #21](https://codepen.io/sebastiantorres86/pen/abOmpKd?editors=1100)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/22-crear-grids-dentro-de-grids.md)

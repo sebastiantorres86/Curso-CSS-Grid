@@ -10,4 +10,4 @@ La clase `container` debe tener una propiedad `grid-row-gap` que tenga el valor 
 [Desafío #6](https://codepen.io/sebastiantorres86/pen/zYGKovj)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/7-grid-gap.md)

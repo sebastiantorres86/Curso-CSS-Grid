@@ -22,4 +22,4 @@ La clase `item5` debe tener una propiedad `grid-area` tal que esté entre la ter
 [Desafío #16](https://codepen.io/sebastiantorres86/pen/poJERNQ)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/17-funcion-repeat.md)

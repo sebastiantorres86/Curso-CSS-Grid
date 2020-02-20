@@ -22,4 +22,4 @@ La clase `item5` debe tener una propiedad `grid-column` que haga que consuma las
 [Desafío #8](https://codepen.io/sebastiantorres86/pen/zYGKowL)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/9-controlar-espaciado-congrid-row.md)

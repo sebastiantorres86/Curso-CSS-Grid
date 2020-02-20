@@ -17,4 +17,4 @@ La clase `item2` debe tener una propiedad `justify-self` que tenga el valor de c
 [Desafío #10](https://codepen.io/sebastiantorres86/pen/yLNaVvv)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/11-alinear-verticalmente-con-align-self.md)

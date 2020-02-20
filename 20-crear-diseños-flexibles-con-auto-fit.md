@@ -12,4 +12,4 @@ La clase `container2` debe tener una propiedad `grid-template-columns` con `repe
 [Desafío #20](https://codepen.io/sebastiantorres86/pen/OJVRWQvG)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/21-usar-media-queries-para-responsive-design.md)

@@ -17,4 +17,4 @@ La clase `container` debe tener una propiedad `grid-template-columns` que esté 
 [Desafío #18](https://codepen.io/sebastiantorres86/pen/OJVRWjQ)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/19-crear-dise%C3%B1os-flexibles-con-auto-fill.md)

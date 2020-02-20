@@ -18,4 +18,4 @@ Dele al contenedor grid tres columnas de `100px` de ancho cada una.
 La clase `container` debería tener una propiedad `grid-template-columns` con tres unidades de `100px`.
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/3-agregar-filas-con-grid-template-rows.md)

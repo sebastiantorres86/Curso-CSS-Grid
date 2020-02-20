@@ -12,4 +12,4 @@ Cambie el display del div con la clase `container` a `grid`.
 La clase `container` debe tener una propiedad `display` con un valor de `grid`.
 
 ----
-[Próxima Clase]()
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/2-agregar-columnas-con-grid-template-columns.md)

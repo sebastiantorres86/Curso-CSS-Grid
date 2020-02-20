@@ -11,4 +11,4 @@ La clase container debe tener una propiedad align-items que tenga el valor `end`
 [Desafío #13](https://codepen.io/sebastiantorres86/pen/oNXzBvX)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/14-divide-el-grid-en-una-plantilla-de-area.md)

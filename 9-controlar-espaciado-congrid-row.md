@@ -12,4 +12,4 @@ La clase `item5` debe tener una propiedad de `grid-row` que hace que consuma las
 [Desafío #9](https://codepen.io/sebastiantorres86/pen/eYNdBGr)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/10-alinear-horizontalmente-con-justify-self.md)

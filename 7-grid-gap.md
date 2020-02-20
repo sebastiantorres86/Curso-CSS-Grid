@@ -10,4 +10,4 @@ La clase `container` debe tener una propiedad `grid-gap` que introduzca un espac
 [Desafío #7](https://codepen.io/sebastiantorres86/pen/mdJrOOd)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/8-controlar-espaciado-con-grid-column.md)

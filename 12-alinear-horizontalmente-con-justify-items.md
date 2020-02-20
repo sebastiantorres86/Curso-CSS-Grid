@@ -11,4 +11,4 @@ La clase `container` debe tener una propiedad `justify-items` que tenga el valor
 [Desafío #12](https://codepen.io/sebastiantorres86/pen/WNvGoqd)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/13-alinear-verticalmente-con-align-items.md)

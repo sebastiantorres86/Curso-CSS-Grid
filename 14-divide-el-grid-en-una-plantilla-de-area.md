@@ -19,4 +19,4 @@ La clase `container` debe tener una propiedad `grid-template-areas` similar a la
 [Desafío #14](https://codepen.io/sebastiantorres86/pen/LYVRxpV)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/15-propiedad-grid-area.md)

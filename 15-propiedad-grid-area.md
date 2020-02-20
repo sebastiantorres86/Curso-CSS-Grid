@@ -19,4 +19,4 @@ La clase `item5` debe tener una propiedad `grid-area` que tenga el valor `footer
 [Desafío #15](https://codepen.io/sebastiantorres86/pen/jOPMyWp)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/16-usar-grid-area-sin-grid-template-areas.md)

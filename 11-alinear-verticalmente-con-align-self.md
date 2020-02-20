@@ -10,4 +10,4 @@ La clase `item3` debe tener una propiedad `align-self` que tenga el valor de `en
 [Desafío #11](https://codepen.io/sebastiantorres86/pen/MWwjbVV?editors=1100)
 
 ----
-[Próxima Clase](#)
+[Próxima Clase](https://github.com/sebastiantorres86/Curso-CSS-Grid/blob/master/12-alinear-horizontalmente-con-justify-items.md)
